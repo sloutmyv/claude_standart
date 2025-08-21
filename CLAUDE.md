@@ -3,6 +3,7 @@
 
 ## Commit
 - You'll not commit alone. the user will commit when necessary. 
+- When use ask for commit, use `command gen-commit-msg.md`
 
 ## Visual Development
 
